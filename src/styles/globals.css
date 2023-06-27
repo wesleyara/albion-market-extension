@@ -1,0 +1,14 @@
+body {
+  min-width: 500px;
+  min-height: 150px;
+  padding: 20px;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+p {
+  color: #666;
+}
